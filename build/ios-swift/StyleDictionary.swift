@@ -4,7 +4,7 @@
 //
 
 // Do not edit directly
-// Generated on Thu, 16 Dec 2021 18:06:29 GMT
+// Generated on Sun, 19 Dec 2021 03:54:14 GMT
 
 
 import UIKit
@@ -25,6 +25,7 @@ public class StyleDictionary {
     public static let colorColorsSpecialCharactersNderung = UIColor(red: 0.204, green: 0.337, blue: 0.686, alpha: 1)
     public static let colorDarkBackground = UIColor(red: 0.000, green: 0.000, blue: 0.000, alpha: 1)
     public static let colorLightBackground = UIColor(red: 1.000, green: 1.000, blue: 1.000, alpha: 1)
+    public static let colorNotExported = UIColor(red: 0.996, green: 0.314, blue: 0.314, alpha: 1)
     public static let effectDropShadowSingle = [object Object]
     public static let effectInnerShadowMultiple0 = [object Object]
     public static let effectInnerShadowMultiple1 = [object Object]
